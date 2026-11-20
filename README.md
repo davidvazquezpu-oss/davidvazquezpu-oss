@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=160&section=header&text=David%20Vázquez&fontSize=42&fontColor=ffffff" width="100%"/>
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,100:1f6feb&height=150&section=header&text=David%20V%C3%A1zquez&fontSize=42&fontColor=ffffff" width="100%"/><div align="center">
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=620&height=40&lines=%3E+Computer+Engineering+Student;%3E+Universidade+da+Coru%C3%B1a+%7C+2nd+year" alt="Computer Engineering Student at Universidade da Coruña"/>
 </div>
@@ -34,5 +33,4 @@
 ## Featured Projects
 - **[Chat-Application](https://github.com/davidvazquezpu-oss/Chat-Application)**: Real-time chat application developed in Java implementing client-server architecture.
 
-## Currently
 
